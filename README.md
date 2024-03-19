@@ -1,5 +1,5 @@
-# GASR
-This is the source code of："GASR: Graph-level Anomaly Detection via Substructure-Enhanced Representation Learning"
+# SubGAD
+This is the source code of："Substructure-Guided Graph-level Anomaly Detection with Attention-Aware Aggregation"
 
 ## Requirements
 This code requires the following:
