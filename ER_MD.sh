@@ -1,0 +1,1 @@
+python main.py --dataset ER_MD --batch_size 150 --lr 0.0005 --alpha 0.7 --hidden_dim2 128 --outlier_label 1

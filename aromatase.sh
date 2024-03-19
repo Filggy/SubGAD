@@ -1,0 +1,1 @@
+python main_Tox.py --dataset Tox21_aromatase --batch_size 2000 --lr 0.0005 --hidden_dim2 64 --outlier_label 1

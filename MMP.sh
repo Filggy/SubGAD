@@ -1,0 +1,1 @@
+python main_Tox.py --dataset Tox21_MMP --batch_size 2000 --lr 0.001 --alpha 0.9 --hidden_dim2 64 --outlier_label 1
