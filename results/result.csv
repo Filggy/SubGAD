@@ -1,0 +1,6 @@
+Model,Dataset,AUC,OutlierClass,Seed,dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+Model,Dataset,AUC,OutlierClass,Seed,dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+Model,Dataset,AUC,OutlierClass,Seed,dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+Model,Dataset,AUC,OutlierClass,Seed,dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+Model,Dataset,AUC,OutlierClass,Seed,dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+GASR,BZR,0.8807±0.0436,1,42,0.0,100,50,AdamW,0.0005,64,128,[0.94957983 0.86554622 0.90756303 0.82352941 0.85714286],51.5547,0.4496,2024-01-03 07:11:31

@@ -1,0 +1,2 @@
+Model,Dataset,AUC,alpha,OutlierClass,Seed,emb_dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
+Model,Dataset,AUC,alpha,OutlierClass,Seed,emb_dp,Batch_Size,Epoch_Num,Optimizer,LR,Hidden_Dim,dim_feedforward,result,Train_Time,Test_Time,TimeStamp
